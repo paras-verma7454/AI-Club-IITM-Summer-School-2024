@@ -22,3 +22,13 @@ The summer school is organized into nine sessions:
 8. **Session 8:** Computer Vision
 9. **Session 9:** Natural Language Processing
 
+## Resources
+
+### Session 1: Intro to Python and OOP
+
+- **Slides:** [Intro to Python.pdf](Session%201/Intro_to_Python.pdf)
+- **Video Recording:** [Session 1 Video](https://www.youtube.com/watch?v=kv-ct3oKUvY)
+- **Google Colab Notebooks:**
+  - [Python Recap](Session%201/Intro_to_Python.ipynb)
+  - [Data Structures](Session%201/data_structures.ipynb)
+
