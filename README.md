@@ -31,4 +31,6 @@ The summer school is organized into nine sessions:
 - **Google Colab Notebooks:**
   - [Python Recap](Session%201/Intro_to_Python.ipynb)
   - [Data Structures](Session%201/data_structures.ipynb)
+  - [Assignment](Session%201/Assignment_1.ipynb)
+  - [Assignment Solution ](Session%201/Solution_Assignment_1.ipynb)
 
