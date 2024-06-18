@@ -3,6 +3,14 @@
 Welcome to the  repository for the AI Club's Summer School 2024! 
 ![image](https://github.com/paras-verma7454/AI-Club-IITM-Summer-School-2024/assets/134628559/c506d34c-76a8-4b2c-9d12-7a5a5bfdb14c)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Schedule](#schedule)
+- [Resources](#resources)
+  
+
+
 
 ## Overview
 
