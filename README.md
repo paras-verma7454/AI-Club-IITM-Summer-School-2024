@@ -55,3 +55,5 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
   - [Assignment](Session%201/Assignment_1.ipynb)
   - [Assignment Solution ](Session%201/Solution_Assignment_1.ipynb)
 
+### Session 2: Data Analysis and Preprocessing
+
