@@ -58,7 +58,7 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 ### Session 2: Data Analysis and Preprocessing
 
-- **Video Recording:**
+- **Video Recording:** [Session 2 Video](https://www.youtube.com/watch?v=l9on4nbSCqI)
 - **CSV dataset:**
   - [Train Food](Session%202/train_food.csv)
   - [Fulfilment center info](Session%202/fulfilment_center_info.csv)
