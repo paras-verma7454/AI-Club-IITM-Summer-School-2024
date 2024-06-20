@@ -49,16 +49,17 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 - **Slides:** [Intro to Python.pdf](Session%201/Intro_to_Python.pdf)
 - **Video Recording:** [Session 1 Video](https://www.youtube.com/watch?v=kv-ct3oKUvY)
+- **Assignment:** [Assignment 1](Session%201/Assignment_1.ipynb)
 - **Google Colab Notebooks:**
   - [Python Recap](Session%201/Intro_to_Python.ipynb)
   - [Data Structures](Session%201/data_structures.ipynb)
-  - [Assignment](Session%201/Assignment_1.ipynb)
   - [Assignment Solution ](Session%201/Solution_Assignment_1.ipynb)
 
 
 ### Session 2: Data Analysis and Preprocessing
 
 - **Video Recording:** [Session 2 Video](https://www.youtube.com/watch?v=l9on4nbSCqI)
+- **Assignment:** [Assignment 2](Session%202/Assignment%202.pdf)
 - **CSV dataset:**
   - [Train Food](Session%202/train_food.csv)
   - [Fulfilment center info](Session%202/fulfilment_center_info.csv)
