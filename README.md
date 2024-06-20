@@ -61,10 +61,10 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 - **Video Recording:** [Session 2 Video](https://www.youtube.com/watch?v=l9on4nbSCqI)
 - **Assignment:** [Assignment 2](Session%202/Assignment%202.pdf)
 - **CSV dataset:**
-  - [Train Food](Session%202/train_food.csv)
-  - [Fulfilment center info](Session%202/fulfilment_center_info.csv)
-  - [Iris missing data](Session%202/Iris_missingdata.csv)
-  - [Meal info](Session%202/meal_info.csv)
+  - [Train Food](Session%202/CSV%20Dataset/train_food.csv)
+  - [Fulfilment center info](Session%202/CSV%20Dataset/fulfilment_center_info.csv)
+  - [Iris missing data](Session%202/CSV%20Dataset/Iris_missingdata.csv)
+  - [Meal info](Session%202/CSV%20Dataset/meal_info.csv)
 - **Google Colab Notebooks:**
   - [Numpy](Session%202/Numpy.ipynb)
   - [Pandas](Session%202/Pandas_SummerSchool.ipynb)
