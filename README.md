@@ -71,3 +71,9 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
   - [MatPlatLib](Session%202/MatPlotLib.ipynb)
   - [Data Preprocessing](Session%202/Data_Preprocessing.ipynb)
 
+### Session 3: Regression Models
+
+- **Slides:** [Linear, Polynomial & Logistic Regression](Session%203)
+- **Video Recording:** [Session 3 Video](https://www.youtube.com/watch?v=aqD8YylTazU)
+- [**Google Colab Notebooks**](Session%203)
+
