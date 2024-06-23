@@ -75,5 +75,8 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 - **Slides:** [Linear, Polynomial & Logistic Regression](Session%203)
 - **Video Recording:** [Session 3 Video](https://www.youtube.com/watch?v=aqD8YylTazU)
-- [**Google Colab Notebooks**](Session%203)
+- **Google Colab Notebooks:**
+  - [Linear Regression](Session%202/Linear_Regression.ipynb)
+  - [Logistic Regression](Session%202/Logistic_Regression.ipynb)
+  - [Polynomial Regression](Session%202/Polynomial_Regression.ipynb)
 
