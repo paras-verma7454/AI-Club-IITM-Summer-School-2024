@@ -97,6 +97,7 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 - **Video Recording:** [Session 5 Video]([[https://www.youtube.com/watch?v=aqD8YylTazU](https://www.youtube.com/watch?v=PVlAry736vA](https://www.youtube.com/live/t695MCAsC88)))
 -  **CSV dataset:**
    - [Insurance](Session%205/insurance.csv)
+   - [Iris](Session%205/iris.xls)
 - **Google Colab Notebooks:**
   - [Decision Tree](Session%205/Decision_Trees.ipynb)
   - [Ensemble Methods](Session%205/Ensemble_Methods.ipynb)
