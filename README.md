@@ -84,8 +84,8 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 
 - **Video Recording:** [Session 4 Video]([https://www.youtube.com/watch?v=aqD8YylTazU](https://www.youtube.com/watch?v=PVlAry736vA))
-- - **CSV dataset:**
-  - [News Group](Session%204/NewsGroup.csv)
+-  **CSV dataset:**
+   - [News Group](Session%204/NewsGroup.csv)
 - **Google Colab Notebooks:**
   - [KNN](Session%204/KNN.ipynb)
   - [SVM](Session%204/SVM.ipynb)
@@ -95,8 +95,8 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 
 - **Video Recording:** [Session 5 Video]([[https://www.youtube.com/watch?v=aqD8YylTazU](https://www.youtube.com/watch?v=PVlAry736vA](https://www.youtube.com/live/t695MCAsC88)))
-- - **CSV dataset:**
-  - [Insurance](Session%205/insurance.csv)
+-  **CSV dataset:**
+   - [Insurance](Session%205/insurance.csv)
 - **Google Colab Notebooks:**
   - [Decision Tree](Session%205/Decision_Trees.ipynb)
   - [Ensemble Methods](Session%205/Ensemble_Methods.ipynb)
