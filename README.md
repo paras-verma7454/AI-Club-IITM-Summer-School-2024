@@ -91,7 +91,8 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
   - [SVM](Session%204/SVM.ipynb)
   - [Naive Bayes](Session%204/Naive_Bayes.ipynb)
 
-  ### Session 5:  Decision Models and Ensemble Methods 
+
+### Session 5:  Decision Models and Ensemble Methods 
 
 
 - **Video Recording:** [Session 5 Video]([[https://www.youtube.com/watch?v=aqD8YylTazU](https://www.youtube.com/watch?v=PVlAry736vA](https://www.youtube.com/live/t695MCAsC88)))
