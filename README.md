@@ -108,7 +108,7 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 - **Video Recording:** [Session 6 Video](https://www.youtube.com/watch?v=IvGU6QpIlhs)
 -  **CSV dataset:**
-   - [Insurance](Session%206/Melbourne_housing_FULL.csv)
+   - [Melbourne housing](Session%206/Melbourne_housing_FULL.csv)
 - **Google Colab Notebooks:**
   - [Regularization](Session%206/Regularization.ipynb)
   - [Optimizers](Session%206/Optmizers_Comparison.ipynb)
