@@ -111,5 +111,5 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
   - [Optimizers](Session%206/Optmizers_Comparison.ipynb)
 
 
-  ### Session 7: Intro to Pytorch and Deep Learning
+### Session 7: Intro to Pytorch and Deep Learning
 
