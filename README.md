@@ -82,7 +82,6 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 ### Session 4: Classification Models 
 
-
 - **Video Recording:** [Session 4 Video]([https://www.youtube.com/watch?v=aqD8YylTazU](https://www.youtube.com/watch?v=PVlAry736vA))
 -  **CSV dataset:**
    - [News Group](Session%204/NewsGroup.csv)
@@ -94,7 +93,6 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 ### Session 5:  Decision Models and Ensemble Methods 
 
-
 - **Video Recording:** [Session 5 Video](https://www.youtube.com/watch?v=t695MCAsC88&list=PLWkFppvOIj_SKM_udgLruhG_wWshgo8hL&index=2)
 -  **CSV dataset:**
    - [Insurance](Session%205/insurance.csv)
@@ -105,10 +103,13 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
  
  ### Session 6:  Optimizers and Regularization
 
-
 - **Video Recording:** [Session 6 Video](https://www.youtube.com/watch?v=IvGU6QpIlhs)
 -  **CSV dataset:**
    - [Melbourne housing](Session%206/Melbourne_housing_FULL.csv)
 - **Google Colab Notebooks:**
   - [Regularization](Session%206/Regularization.ipynb)
   - [Optimizers](Session%206/Optmizers_Comparison.ipynb)
+
+
+  ### Session 7: Intro to Pytorch and Deep Learning
+
