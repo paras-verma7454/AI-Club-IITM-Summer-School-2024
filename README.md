@@ -113,3 +113,4 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 ### Session 7: Intro to Pytorch and Deep Learning
 
+- **Video Recording:** [Session 7 Video](https://www.youtube.com/watch?v=DQvfJ3Kem74)
