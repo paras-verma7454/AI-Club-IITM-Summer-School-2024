@@ -129,3 +129,13 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 ### Session 9: Natural Language Processing
 
 - **Video Recording:** [Session 9 Video](https://www.youtube.com/watch?v=nAObx5Qgo1w&list=PLWkFppvOIj_SKM_udgLruhG_wWshgo8hL&index=1)
+
+
+
+### Hackathon
+
+- **Guide:** [Guide](Hackathon/hackathon_starter_upd.pdf)
+- **Dataset:**
+   - [Sample Sybmission](Hackathon/sample_submission.csv)
+   - [Test](Hackathon/test.csv)
+   - [Train](Hackathon/train.csv)
