@@ -115,7 +115,7 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 - **Video Recording:** [Session 7 Video](https://www.youtube.com/watch?v=DQvfJ3Kem74)
 - **Slides:**
-   - [Slides](Session%207/Slides.md)
+   - [Slides](https://www.canva.com/design/DAGJtLz0ICo/Z7x_4wM5q_DLLGdnhDSRBg/view?utm_content=DAGJtLz0ICo&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 -  **Google Colab Notebooks:**
    - [DEEP LEARNING AND PYTORCH](Session%207/Deep_Learning_and_Pytorch.ipynb)
    - [Conv layer](Session%207/conv_layer.ipynb)
