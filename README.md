@@ -136,6 +136,6 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 
 - **Guide:** [Guide](Hackathon/hackathon_starter_upd.pdf)
 - **Dataset:**
-   - [Sample Sybmission](Hackathon/sample_submission.csv)
+   - [Sample Submission](Hackathon/sample_submission.csv)
    - [Test](Hackathon/test.csv)
    - [Train](Hackathon/train.csv)
