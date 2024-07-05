@@ -119,3 +119,13 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 -  **Google Colab Notebooks:**
    - [DEEP LEARNING AND PYTORCH](Session%207/Deep_Learning_and_Pytorch.ipynb)
    - [Conv layer](Session%207/conv_layer.ipynb)
+
+
+### Session 8: Computer Vision
+
+- **Video Recording:** [Session 8 Video](https://www.youtube.com/watch?v=L7LLTanQqYo&list=PLWkFppvOIj_SKM_udgLruhG_wWshgo8hL&index=2)
+
+
+### Session 9: Natural Language Processing
+
+- **Video Recording:** [Session 9 Video](https://www.youtube.com/watch?v=nAObx5Qgo1w&list=PLWkFppvOIj_SKM_udgLruhG_wWshgo8hL&index=1)
