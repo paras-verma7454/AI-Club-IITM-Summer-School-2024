@@ -124,12 +124,12 @@ Welcome to the AI Club Summer School 2024! Below is the schedule for all the ses
 ### Session 8: Computer Vision
 
 - **Video Recording:** [Session 8 Video](https://www.youtube.com/watch?v=L7LLTanQqYo&list=PLWkFppvOIj_SKM_udgLruhG_wWshgo8hL&index=2)
-
+-  **Google Colab Notebooks:**[Notebooks](Session%208)
 
 ### Session 9: Natural Language Processing
 
 - **Video Recording:** [Session 9 Video](https://www.youtube.com/watch?v=nAObx5Qgo1w&list=PLWkFppvOIj_SKM_udgLruhG_wWshgo8hL&index=1)
-
+-  **Google Colab Notebooks:** [Notebooks](Session%209)
 
 
 ### Hackathon
